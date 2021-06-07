@@ -1,0 +1,13 @@
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.exe
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.deps.json
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.runtimeconfig.json
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.runtimeconfig.dev.json
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.dll
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\bin\Debug\netcoreapp3.1\TPPOLY.pdb
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.csprojAssemblyReference.cache
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.AssemblyInfoInputs.cache
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.AssemblyInfo.cs
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.csproj.CoreCompileInputs.cache
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.dll
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.pdb
+C:\Users\Heidi\source\repos\TPPOLY\TPPOLY\obj\Debug\netcoreapp3.1\TPPOLY.genruntimeconfig.cache

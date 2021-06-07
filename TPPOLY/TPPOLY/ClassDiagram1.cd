@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPPOLY.LesClasses.Fruits">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>LesClasses\Fruits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPPOLY.LesClasses.Orange">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Orange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPPOLY.LesClasses.Pommes">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Pommes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPPOLY.Program">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
